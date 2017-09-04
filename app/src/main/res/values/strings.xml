@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Practica</string>
+    <string name="app_name1">Pizza Planeta</string>
+
+    <string-array name="pizzas">
+        <item>Americana</item>
+        <item>Hawaiana</item>
+        <item>MeetLover</item>
+        <item>Super Suprema</item>
+
+    </string-array>
+
+</resources>
